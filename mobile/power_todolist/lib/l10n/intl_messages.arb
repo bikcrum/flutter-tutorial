@@ -1,0 +1,112 @@
+{
+  "@@last_modified": "2019-08-18T14:31:37.206963",
+  "appName": "Todo List",
+  "@appName": {
+    "description": "app name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "music": "Music",
+  "@music": {
+    "description": "music",
+    "type": "text",
+    "placeholders": {}
+  },
+  "game": "Game",
+  "@game": {
+    "description": "game",
+    "type": "text",
+    "placeholders": {}
+  },
+  "read": "Read",
+  "@read": {
+    "description": "read",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sports": "Sports",
+  "@sports": {
+    "description": "sports",
+    "type": "text",
+    "placeholders": {}
+  },
+  "travel": "Travel",
+  "@travel": {
+    "description": "travel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "work": "Work",
+  "@work": {
+    "description": "work",
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcomeWord": "Hello! ",
+  "@welcomeWord": {
+    "description": "welcomeWord",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingEmpty": "nothing at all",
+  "@loadingEmpty": {
+    "description": "loadingEmpty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingIdle": "...",
+  "@loadingIdle": {
+    "description": "loadingIdle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingError": "loading error",
+  "@loadingError": {
+    "description": "loadingError",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "loading...",
+  "@loading": {
+    "description": "loading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reLoading": "click to reload",
+  "@reLoading": {
+    "description": "reLoading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "doneList": "Done List",
+  "@doneList": {
+    "description": "doneList",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageTitle": "Change Language",
+  "@languageTitle": {
+    "description": "languageTitle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeTheme": "Change Theme",
+  "@changeTheme": {
+    "description": "changeTheme",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appSetting": "Setting",
+  "@appSetting": {
+    "description": "appSetting",
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskItems": "{taskNumbers,plural, =0{You have never written a list of tasks.\nLet''s get started soon.}=1{This is your todo-list,\nToday, you have 1 task to complete. }many{This is your todo-list,\nToday, you have {taskNumbers} tasks to complete. }other{This is your todo-list,\nToday, you have {taskNumbers} tasks to complete. }}",
+  "@taskItems": {
+    "type": "text",
+    "placeholders": {
+      "taskNumbers": {}
+    }
+  }
+}

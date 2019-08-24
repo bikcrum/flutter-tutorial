@@ -1,0 +1,17 @@
+export 'about_page.dart';
+export 'avatar_history_page.dart';
+export 'avatar_page.dart';
+export 'done_task_page.dart';
+export 'edit_task_page.dart';
+export 'icon_setting_page.dart';
+export 'image_page.dart';
+export 'language_page.dart';
+export 'main_page.dart';
+export 'nav_page.dart';
+export 'nav_setting_page.dart';
+export 'photo_page.dart';
+export 'search_page.dart';
+export 'setting_page.dart';
+export 'task_detail_page.dart';
+export 'theme_page.dart';
+export 'webview_page.dart';

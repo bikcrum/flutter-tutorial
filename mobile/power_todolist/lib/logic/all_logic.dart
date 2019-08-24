@@ -1,0 +1,9 @@
+export 'avatar_page_logic.dart';
+export 'done_task_page_logic.dart';
+export 'edit_task_page_logic.dart';
+export 'global_logic.dart';
+export 'icon_setting_page_logic.dart';
+export 'main_page_logic.dart';
+export 'search_page_logic.dart';
+export 'task_detail_page_logic.dart';
+export 'theme_page_logic.dart';

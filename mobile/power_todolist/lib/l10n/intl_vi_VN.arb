@@ -1,0 +1,112 @@
+{
+  "@@last_modified": "2019-08-18T14:31:37.206963",
+  "appName": "Công việc cần làm",
+  "@appName": {
+    "description": "app name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "music": "Âm nhạc",
+  "@music": {
+    "description": "music",
+    "type": "text",
+    "placeholders": {}
+  },
+  "game": "Trò chơi",
+  "@game": {
+    "description": "game",
+    "type": "text",
+    "placeholders": {}
+  },
+  "read": "Ghi chép",
+  "@read": {
+    "description": "read",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sports": "Thể thao",
+  "@sports": {
+    "description": "sports",
+    "type": "text",
+    "placeholders": {}
+  },
+  "travel": "Du lịch",
+  "@travel": {
+    "description": "travel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "work": "Công việc",
+  "@work": {
+    "description": "work",
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcomeWord": "Xin chào! ",
+  "@welcomeWord": {
+    "description": "welcomeWord",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingEmpty": "không có gì",
+  "@loadingEmpty": {
+    "description": "loadingEmpty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingIdle": "...",
+  "@loadingIdle": {
+    "description": "loadingIdle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingError": "tải thất bại",
+  "@loadingError": {
+    "description": "loadingError",
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "đang tải...",
+  "@loading": {
+    "description": "loading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "reLoading": "nhấp để tải lại",
+  "@reLoading": {
+    "description": "reLoading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "doneList": "Danh sách hoàn thành",
+  "@doneList": {
+    "description": "doneList",
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageTitle": "Đổi ngôn ngữ",
+  "@languageTitle": {
+    "description": "languageTitle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeTheme": "Đổi giao diện",
+  "@changeTheme": {
+    "description": "changeTheme",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appSetting": "Cài đặt",
+  "@appSetting": {
+    "description": "appSetting",
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskItems": "{taskNumbers,plural, =0{Bạn chưa viết một nhiệm vụ nào.\nHãy bắt đầu nào.}=1{Đây là danh sách việc cần làm của bạn,\nHôm nay, bạn có 1 nhiệm vụ phải hoàn thành. }many{Đây là danh sách việc cần làm của bạn,\nHôm nay, bạn có {taskNumbers} nhiệm vụ phải hoàn thành. }other{Đây là danh sách việc cần làm của bạn,\nHôm nay, bạn có {taskNumbers} nhiệm vụ phải hoàn thành. }}",
+  "@taskItems": {
+    "type": "text",
+    "placeholders": {
+      "taskNumbers": {}
+    }
+  }
+}

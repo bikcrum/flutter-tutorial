@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2019-08-17T17:24:02.350075",
+  "appName": "Todo List",
+  "@appName": {
+    "description": "app name",
+    "type": "text",
+    "placeholders": {}
+  }
+}
