@@ -58,8 +58,7 @@ class GlobalModel extends ChangeNotifier {
         logic.getCurrentPosition(),
       ]).then((value) {
         currentLocale = Locale(currentLanguageCode[0], currentLanguageCode[1]);
-        print("---->>>");
-        print(value);
+        refresh();
       });
     }
   }
