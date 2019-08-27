@@ -1,0 +1,22 @@
+{
+  "@@last_modified": "2019-08-27T12:45:48.112434",
+  "welcome": "Hello! ",
+  "@welcome": {
+    "description": "welcome",
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskItems": "{taskNumbers,plural, =0{You have never written a list of tasks.\nLet''s get started soon.}=1{This is your todo-list,\nToday, you have 1 task to complete. }many{This is your todo-list,\nToday, you have {taskNumbers} tasks to complete. }other{This is your todo-list,\nToday, you have {taskNumbers} tasks to complete. }}",
+  "@taskItems": {
+    "type": "text",
+    "placeholders": {
+      "taskNumbers": {}
+    }
+  },
+  "languageTitle": "Change Language",
+  "@languageTitle": {
+    "description": "languageTitle",
+    "type": "text",
+    "placeholders": {}
+  }
+}

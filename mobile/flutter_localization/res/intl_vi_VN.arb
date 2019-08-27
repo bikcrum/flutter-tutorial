@@ -1,0 +1,22 @@
+{
+  "@@last_modified": "2019-08-27T12:45:48.112434",
+  "welcome": "Xin chào! ",
+  "@welcome": {
+    "description": "welcome",
+    "type": "text",
+    "placeholders": {}
+  },
+  "taskItems": "{taskNumbers,plural, =0{Bạn chưa viết các nhiệm vụ.\nHãy bắt đầu sớm.}=1{Đây là danh sách việc cần làm của bạn,\nHôm nay, bạn có 1 nhiệm vụ phải hoàn thành. }many{Đây là danh sách việc cần làm của bạn,\nHôm nay, bạn có {taskNumbers} nhiệm vụ phải hoàn thành. }other{Đây là danh sách việc cần làm của bạn,\nHôm nay, bạn có {taskNumbers} nhiệm vụ phải hoàn thành. }}",
+  "@taskItems": {
+    "type": "text",
+    "placeholders": {
+      "taskNumbers": {}
+    }
+  },
+  "languageTitle": "Đổi ngôn ngữ",
+  "@languageTitle": {
+    "description": "languageTitle",
+    "type": "text",
+    "placeholders": {}
+  }
+}
