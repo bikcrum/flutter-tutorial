@@ -1,0 +1,4 @@
+
+enum ThemeType {
+  dark, light
+}
